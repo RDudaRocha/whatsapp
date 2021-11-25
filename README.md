@@ -3,9 +3,9 @@
 
 <p align="center">
    <a href="https://www.linkedin.com/in/rdudarocha/">
-      <img alt="Duda Rocha" src="https://img.shields.io/badge/-Duda Rocha-1360e0?style=flat&logo=Linkedin&logoColor=white" />
+      <img alt="Duda Rocha" src="https://img.shields.io/badge/-Duda Rocha-35b81b?style=flat&logo=Linkedin&logoColor=white" />
    </a>  
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-1360e0">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-35b81b">
 </p>
 
 ## Objetivo
